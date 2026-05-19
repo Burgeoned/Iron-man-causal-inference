@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vs/
+.vscode/
+
+# Data files — NEVER commit raw data
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.db
+*.sqlite
+
+# KaggleHub cache
+.cache/
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large outputs
+*.mp4
+*.mov
+*.zip
+*.tar.gz
+*.tar.xz

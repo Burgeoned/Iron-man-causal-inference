@@ -1,0 +1,24 @@
+# Core data stack
+pandas>=2.0.0
+numpy>=2.0.0
+scipy>=1.15.0
+
+# Visualization
+seaborn>=0.13.0
+matplotlib>=3.8.0
+
+# Statistical modeling
+statsmodels>=0.14.0
+
+# Causal inference
+dowhy>=0.11.0
+
+# Data acquisition
+kagglehub>=0.1.0
+
+# Geographic income lookup (optional — used in earlier versions)
+# uszipcode>=1.0.1
+# sqlalchemy_mate==1.4.28.3  # pin to fix uszipcode compatibility
+
+# Country → continent mapping (optional)
+# pycountry-convert>=0.7.2
